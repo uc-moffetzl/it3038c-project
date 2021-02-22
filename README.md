@@ -1,5 +1,5 @@
 # it3038c-project
-This project will be about displaying the free space and capacity of your hard drive and display percentages of what folders are taking up the most space
+This project will be about displaying the free space and capacity of your hard drive and display percentages of what folders are taking up the most space. (This is subject to change because I want to make a smart mirror)
 
 To run this project, simply download the PowerShell file and run it
 
